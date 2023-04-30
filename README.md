@@ -6,3 +6,6 @@ Use this to simply remove the passphrase from an encrypted ssh private key.
 
 ./remove-passphrase.sh \<private key file\> \<passphrase\>
 
+
+Created by ChatGPT
+
